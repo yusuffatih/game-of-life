@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Git Temporary Files
+.gitmodules
+
 # Object files
 *.o
 *.ko
